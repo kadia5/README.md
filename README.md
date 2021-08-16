@@ -15,3 +15,8 @@ testing testing above preview button on right
 1. Item One 
 2. Item Two
 3. Item Three
+
+```function whatToDoForLunch(hungry, availableTime) {
+  console.log("hungry is", hungry);
+  console.log("availableTime is", availableTime);
+}```
