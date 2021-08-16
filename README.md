@@ -1,4 +1,4 @@
-# Kadia's Note
+# Kadia's Notes
 
 ## Summary 
 
